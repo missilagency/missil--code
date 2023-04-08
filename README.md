@@ -49,3 +49,66 @@
     </footer>
   </body>
 </html>
+
+
+
+
+Copy code
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+}
+
+header {
+background-color: #333;
+color: #fff;
+padding: 10px;
+}
+
+nav ul {
+list-style: none;
+margin: 0;
+padding: 0;
+}
+
+nav ul li {
+display: inline-block;
+margin-right: 20px;
+}
+
+nav ul li a {
+color: #fff;
+text-decoration: none;
+}
+
+main {
+padding: 50px;
+}
+
+h1 {
+font-size: 48px;
+margin-bottom: 30px;
+}
+
+h2 {
+font-size: 36px;
+margin-bottom: 20px;
+}
+
+h3 {
+font-size: 24px;
+margin-bottom: 10px;
+}
+
+p {
+font-size: 18px;
+line-height: 1.5;
+margin-bottom: 20px;
+}
+
+.button {
+display: inline-block;
+padding: 10px 20px;
+background-color: #333;
+color:
